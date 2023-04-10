@@ -1,0 +1,11 @@
+{
+  "name": "creacion-api",
+  "version": "0.0.1",
+  "description": "backend para el proyecto de calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "andres gomez",
+  "license": "ISC"
+}
